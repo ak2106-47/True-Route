@@ -1,6 +1,6 @@
 # True Route
 
-Flight delays and cancellations cause stress, missed connections, and wasted time. As a result, I tried to reinforce the need for a smarter way to choose reliable flights. I wanted to build a solution that helps travelers avoid disruptions by using data-driven predictions, ensuring a smoother travel experience.
+Flight delays and cancellations cause stress, missed connections, and wasted time. As a result, I tried to reinforce the need for a smarter way to choose reliable flights. I wanted to build a solution that helps travelers avoid disruptions by using data-driven predictions, ensuring a smoother travel experience..
 
 ## Setup
 
